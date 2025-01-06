@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_education_experiences",
+  "info": {
+    "displayName": "education",
+    "icon": "earth",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "universityName": {
+      "type": "string"
+    },
+    "degree": {
+      "type": "string"
+    },
+    "major": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "startDate": {
+      "type": "string"
+    },
+    "endDate": {
+      "type": "string"
+    }
+  }
+}
